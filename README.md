@@ -31,7 +31,7 @@ Currently focused on developing command-line (CLI) applications and automation s
 ## 📫 How to Reach Me
 
 - GitHub: [Malith-nethsiri](https://github.com/Malith-nethsiri)
-- Email: *(add your professional email if you want, or leave blank for now)*
+- Email: malithvihanga96@gmail.com
 
 ---
 
