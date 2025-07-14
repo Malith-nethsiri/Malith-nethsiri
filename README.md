@@ -23,6 +23,7 @@ Currently focused on developing command-line (CLI) applications and automation s
 | ⏰ [Alarm Clock (CLI)](https://github.com/Malith-nethsiri/CLI) | A command-line alarm clock using Python and sound notifications. |
 | ✅ [To-Do List App](https://github.com/Malith-nethsiri/CLI) | A simple to-do list application in the terminal to manage tasks effectively. |
 | 🔐 [Password Generator](https://github.com/Malith-nethsiri/CLI) | Generates strong, random passwords with user-configurable options. |
+| 💸 [currency converter](https://github.com/Malith-nethsiri/python-income-tools/tree/main/currency_converter/exchange-rate-fetcher) |It can convert currencies |
 
 > 🔎 More projects being added as I complete my learning and build tools along the way.
 
